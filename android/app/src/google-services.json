@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "512823783",
+    
+    "project_id": "movieapp-957ac",
+    "storage_bucket": "movieapp-957ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512823783:android:f4d9dc538a4fef2a21ed42",
+        "android_client_info": {
+          "package_name": "com.example.fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512823783-nhbv5kstmb9hcscfmali98iea986svgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVt2Z0W-mF_YKZo5q2X_cO1P5Mor1n_js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512823783-nhbv5kstmb9hcscfmali98iea986svgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
